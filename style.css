@@ -1,0 +1,35 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.bondades {
+    background-color: #d3d3d3;
+
+}
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.margin-mid {
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.caminhos {
+    background-color: white;
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
+.margin-p {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.bg-footer {
+    background-color: black;
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.salvas {
+    background-color: #d3d3d3;
+}
