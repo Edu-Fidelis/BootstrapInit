@@ -93,11 +93,11 @@ Previous Knowledge about HTML/CSS
 - Import Bootsrap folder
 
 ## Tools
-[Bootsrap](http://getbootstrap.com/docs/5.0/getting-started/download/ "Bootsrap")
-[VS Code](https://code.visualstudio.com/ "VS Code")
-HTML
-CSS
-[Carousel Template](http://getbootstrap.com/docs/5.0/examples/carousel/ "Carousel Template")
+[Bootsrap](http://getbootstrap.com/docs/5.0/getting-started/download/ "Bootsrap")<br>
+[VS Code](https://code.visualstudio.com/ "VS Code")<br>
+HTML<br>
+CSS<br>
+[Carousel Template](http://getbootstrap.com/docs/5.0/examples/carousel/ "Carousel Template")<br>
 
 ---
 
@@ -117,7 +117,7 @@ CSS
    
 This project is under the license [MIT](./LICENSE).
 
-Made with :fa-heart: by Edu Fidelis 
+Made with love by Edu Fidelis 
 
 ---
 
