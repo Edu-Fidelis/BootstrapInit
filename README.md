@@ -37,7 +37,7 @@ Table of contents
 
 We've made a simple, but beautiful static website using the Carousel Template
 
----
+
 ## Images
 
 <a href="https://imgur.com/Slef7n4"><img src="https://i.imgur.com/Slef7n4.png" title="source: imgur.com" /></a>
