@@ -21,7 +21,7 @@
 <h3>
 Table of contents
 </h3>
- • <a href="#about">About</a> 
+ • <a href="#about">About</a><br> 
  • <a href="#features">Features</a> 
  • <a href="#layout">Layout</a>  
  • <a href="#how-it-works">How it works</a>  
