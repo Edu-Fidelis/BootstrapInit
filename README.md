@@ -13,7 +13,7 @@
 
 
 <h4 align="center"> 
-	 Status: 
+	 Status: Complete
 </h4>
 
 
@@ -35,7 +35,7 @@ Table of contents
 
 ## About
 
-Descrição do projeto
+We've made a simple, but beautiful static website using the Carousel Template
 
 ---
 ## Images
