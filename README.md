@@ -22,12 +22,12 @@
 Table of contents
 </h3>
  • <a href="#about">About</a><br> 
- • <a href="#features">Features</a> 
- • <a href="#layout">Layout</a>  
- • <a href="#how-it-works">How it works</a>  
- • <a href="#tech-stack">Tech Stack</a>  
- • <a href="#contributors">Contributors</a> 
- • <a href="#author">Author</a> 
+ • <a href="#features">Features</a><br>  
+ • <a href="#layout">Layout</a><br>   
+ • <a href="#how-it-works">How it works</a><br>   
+ • <a href="#tech-stack">Tech Stack</a><br>   
+ • <a href="#contributors">Contributors</a><br>  
+ • <a href="#author">Author</a><br>  
  • <a href="#user-content-license">License</a>
 
 </p>
